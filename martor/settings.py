@@ -227,3 +227,5 @@ ALLOWED_HTML_ATTRIBUTES = getattr(
         "width",
     ],
 )
+
+ALLOWED_HOSTS = ['localhost', '127.0.0.1:8020']
